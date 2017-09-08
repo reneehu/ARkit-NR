@@ -1,2 +1,3 @@
 # ARkit-NR
-ARKit projects
+Augmented reality projects using apple ARKit https://developer.apple.com/arkit/
+
